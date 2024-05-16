@@ -1,0 +1,9 @@
+﻿STEP;TIME AVG;VARIATION
+Start;37.7;Test
+Step_1;48.13;Test
+Step_2;96.85;Test
+Step_3;128.76;Test
+Start;42.99;Control
+Step_1;38.67;Control
+Step_2;92.94;Control
+Step_3;128.66;Control
